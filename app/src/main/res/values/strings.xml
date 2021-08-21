@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="welcome">Welcome</string>
+    <string name="introduce">In this text, we will assess your ability to build the application through code analysis and reproduction of the following layout.</string>
+    <string name="get_the_instructions">GET THE INSTRUCTIONS</string>
+    <string name="start_prototype">START PROTOTYPE</string>
+    <string name="dead">Dead</string>
+    <string name="name">Agency Director</string>
+    <string name="character">Character</string>
+    <string name="location">Location</string>
+    <string name="episode">Episode</string>
+    <string name="planet">Planet</string>
+    <string name="earth">Earth (C-137)</string>
+    <string name="c_137">(C-137)</string>
+    <string name="season_1">Season 1</string>
+    <string name="s01e01">S01E01</string>
+    <string name="pilot">Pilot</string>
+    <string name="december_2_2013">DECEMBER 2, 2013</string>
+</resources>
